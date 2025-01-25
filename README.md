@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruwantha Madhushan</h1>
 <h3 align="center">A passionate Web, Mobile ,Gaming developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=01ruwantha&label=Profile%20views&color=0e75b6&style=flat" alt="01ruwantha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=01ruwantha&label=Profile%20views&color=0e75b6&style=flat" alt="01ruwantha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01ruwantha" alt="01ruwantha" /></a> </p>
 
