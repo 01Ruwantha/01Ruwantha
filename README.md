@@ -1,4 +1,4 @@
-<div align="center" ><img src = "https://github.com/01Ruwantha/01Ruwantha/blob/a9920284585b7d0ed95e84b3ea255c1e4dabe8f9/about_me.gif" width = 200px></div>
+<div align="center" ><img src = "https://github.com/01Ruwantha/01Ruwantha/blob/a9920284585b7d0ed95e84b3ea255c1e4dabe8f9/about_me.gif" alt="Pic" width = 200px></div>
 
 <h1 align="center">Hi 👋, I'm Ruwantha Madhushan</h1>
 <h3 align="center">A passionate Web, Mobile ,Gaming developer from Sri Lanka</h3>
