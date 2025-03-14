@@ -1,10 +1,10 @@
+[![Download CV](https://img.shields.io/badge/Download-CV-blue)](https://raw.githubusercontent.com/01Ruwantha/CV/main/Ruwantha-Madhushan-FlowCV-Resume-20250314.pdf)
 <div align="center" ><img src = "https://github.com/01Ruwantha/01Ruwantha/blob/a9920284585b7d0ed95e84b3ea255c1e4dabe8f9/about_me.gif" alt="Pic" width = 200px></div>
 
 <h1 align="center">Hi 👋, I'm Ruwantha Madhushan</h1>
 <h3 align="center">A passionate Web, Mobile ,Gaming developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=01ruwantha&label=Profile%20views&color=0e75b6&style=flat" alt="01ruwantha" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01ruwantha" alt="01ruwantha" /></a> </p>
 
 - 🔭 I’m currently working on [music app](https://github.com/01Nimantha/musicapp.git)
